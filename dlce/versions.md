@@ -457,10 +457,22 @@
 
 ***
 
+### 2.8.0
+![BUG](https://img.shields.io/badge/BUG_修复-red.svg)
+![功能](https://img.shields.io/badge/功能-blue.svg)
+![内容](https://img.shields.io/badge/内容-yellow.svg)
+
+**新增关卡：新版空间**
+- 原**空间 Max Studio**改为隐藏关，玩过的玩家保留；
+- 修复**Faded新手版本**部分粒子特效大小不正常的问题；
+- 修复并优化角色的落地检测机制。
+
+***
+
 ### 2.7.1
 ![BUG](https://img.shields.io/badge/BUG_修复-red.svg)
 
-- 优化**新版空间**路线。
+- 优化**空间Max Studio**路线。
 
 ***
 
@@ -495,7 +507,7 @@
 ### 2.3.0
 ![内容](https://img.shields.io/badge/内容-yellow.svg)
 
-**新增关卡：空间**
+**新增关卡：空间 Max Studio**
 
 ***
 
