@@ -4,9 +4,9 @@
 - [多语言](/dlce/localization.md)
 <!-- desc: "查看游戏内货币相关应用" -->
 - [货币](/dlce/coins)
-<!-- desc: "玩法介绍" -->
-- [日常任务](/dlce/missions.md)
 <!-- desc: "游戏任务栏目" -->
+- [日常任务](/dlce/missions.md)
+<!-- desc: "玩法介绍" -->
 - [音符挑战](/dlce/notes-challenge)
 <!-- desc: "游戏内角色装饰相关信息" -->
 - [角色装饰](/dlce/character)
