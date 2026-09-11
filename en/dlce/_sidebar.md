@@ -2,6 +2,8 @@
 - [Localization](/en/dlce/localization)
 <!-- desc: "Check the in-game currency-related stuff" -->
 - [Currencies](/en/dlce/coins)
+<!-- desc: "Game missions section" -->
+- [Missions](/en/dlce/missions)
 <!-- desc: "Game mode introduction" -->
 - [Notes Challenge](/en/dlce/notes-challenge)
 <!-- desc: "Game characters and decorations" -->
